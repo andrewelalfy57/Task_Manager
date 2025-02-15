@@ -47,7 +47,7 @@ Make sure you have the following installed on your machine:
     PORT= 8000
     replace the user with your MongoDb user name and <db_password> with your password 
 
-3. Start the Development Server
+4. Start the backend Server
 
    Run the application's backend :
 
@@ -58,7 +58,7 @@ Make sure you have the following installed on your machine:
 
    [http://localhost:8000](http://localhost:8000)
 
-4-Run the applications frontend :
+5-Run the applications frontend :
  ```bash
         npm run build 
         npm start
